@@ -4,6 +4,7 @@ By: Tiffany.W (2502059360)
 Features:
 - Add task
 - Remove task
+- Cross out / check task
 - Update task
 - Filter task (All, Completed, Uncompleted)
 - lofi music to accompany you :)
